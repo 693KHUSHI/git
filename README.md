@@ -1,2 +1,2 @@
 # git
-learning githu
+learning github
